@@ -1,0 +1,21 @@
+/* index.html Pagina 01 */
+
+/* Comentarios de Clientes */
+
+div#grid-container {
+    margin-top: 10px;
+    display: flex;
+    background-color: white;
+}
+
+.left, .middle, .right {
+    border-width: 1px;
+    border-color: black;
+    border-radius: 15px;
+    float: left;
+    width: 33.33%;
+    margin: 15px;
+    padding: 15px;
+    background-color: Gainsboro;
+    color: black;
+}
